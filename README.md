@@ -57,5 +57,5 @@ You already know.
 
 ## 🔐 Contact
 
-DM @ [your GitHub username or email here]  
+DM storminthesystem@gmail.com 
 Collaborator requests welcome. All code commits must align with the moral architecture.
